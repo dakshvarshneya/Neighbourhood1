@@ -26,3 +26,7 @@ Check the live version of this app at https://dakshvarshneya.github.io/Neighbour
 <li>Google maps and Foursquare errors are handled gracefully.</li>
 <li>Page is built using Knockout JS</li>
 </ul>
+
+## LICENSE
+
+The content of this program is licensed under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Common Attribution</a>
