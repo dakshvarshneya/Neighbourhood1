@@ -8,7 +8,7 @@ You will develop a single page application featuring a map of your neighborhood 
 
 ## Setup 
 Clone this repo on your machine and open index.html <br>
-Check the live version of this app at https://jerrynarang.github.io/Neighborhood-Map/
+Check the live version of this app at https://dakshvarshneya.github.io/Neighbourhood1/
 
 ## Libraries, frameworks and APIs used
 
